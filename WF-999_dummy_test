@@ -1,0 +1,40 @@
+---
+workflow_id: WF-99
+name: Dummy Workflow
+version: 0.1
+status: experimental
+---
+
+# WF-99: Dummy Workflow
+
+## 目的
+Workflow選択が正しく機能するか確認する
+
+---
+
+## Phase 1
+
+出力：
+
+"This is a dummy workflow execution."
+
+---
+
+## 完了条件
+
+- メッセージが表示される
+
+---
+
+## 出力形式
+
+Phase: 1
+Message: Dummy executed
+
+---
+
+## 次の選択
+
+A. OK
+B. 再実行
+C. 別workflow
