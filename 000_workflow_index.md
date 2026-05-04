@@ -9,7 +9,7 @@
 
 ---
 
-## WF-01
+## WF-001
 Name:
 Word 数式半自動変換ワークフロー
 
@@ -27,11 +27,11 @@ Output:
 - Wordで変換しやすい構造
 
 File:
-workflows/WF-01_word_equation_semiauto.md
+workflows/WF-001_word_equation_semiauto.md
 
 ---
 
-## WF-99
+## WF-999
 Name:
 ダミーワークフロー（テスト用）
 
@@ -46,7 +46,7 @@ Output:
 - 簡単なテストメッセージ
 
 File:
-workflows/WF-99_dummy_test.md
+workflows/WF-999_dummy_test.md
 
 ---
 
