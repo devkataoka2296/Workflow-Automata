@@ -1,11 +1,11 @@
 ---
-workflow_id: WF-01
+workflow_id: WF-001
 name: Word 数式半自動変換
 version: 0.1
 status: experimental
 ---
 
-# WF-01: Word 数式半自動変換
+# WF-001: Word 数式半自動変換
 
 ## 目的
 数式をWord数式エディタで編集可能な形式（LaTeX）に整形する
